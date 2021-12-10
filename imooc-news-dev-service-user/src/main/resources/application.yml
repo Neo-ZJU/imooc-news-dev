@@ -1,9 +1,11 @@
 server:
-  port: 8003
+#  port: 8003
   tomcat:
     uri-encoding: UTF-8
     max-swallow-size: -1
 spring:
+  profiles:
+    active: dev #可以修改为dev prod,便于环境配置的变更
   application:
     name: service-user
   jackson:
