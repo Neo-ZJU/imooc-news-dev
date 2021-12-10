@@ -1,0 +1,5 @@
+com\imooc\mybatis\utils\UserGenerator.class
+com\imooc\article\mapper\CommentsMapper.class
+com\imooc\my\mapper\MyMapper.class
+com\imooc\mybatis\utils\AdminGenerator.class
+com\imooc\pojo\Comments.class
